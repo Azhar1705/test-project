@@ -1,0 +1,5 @@
+Test Case: Login Functionality
+Step 1: Open the application
+Step 2: Enter valid username and password
+Step 3: Click login
+Expected: User is redirected to dashboard
