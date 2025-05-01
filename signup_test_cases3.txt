@@ -1,0 +1,7 @@
+Test Case ID: TC003
+Title: Signup with valid details
+Steps:
+1. Open signup page
+2. Fill all fields
+3. Click Signup
+Expected Result: User account created successfully
