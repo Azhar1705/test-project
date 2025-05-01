@@ -1,0 +1,6 @@
+Test Case: Signup Functionality
+Step 1: Open the application
+Step 2: Click on "Sign up"
+Step 3: Enter valid email, username, and password
+Step 4: Click "Register"
+Expected: User account is created and redirected to welcome page
